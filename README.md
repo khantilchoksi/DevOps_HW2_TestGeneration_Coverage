@@ -27,10 +27,11 @@
   * Report: ![img](/subjectjs_code_coverage.png) 
   * HTML Report: ![img](/subject_report.png) 
 
-* **Architecture Diagram:** 
+* **Screenshot for Mystery.js branch coverage** 
   * Report: ![img](/mysteryjs_code_coverage.png) 
   * HTML Report: ![img](/mystery_report.png) 
 
 
-* **For the reference I have put test cases of Subject.js [here](/subject_test.js) and Mystery.js [here](/mystery_test.js).
+* **For your reference I have put test cases of Subject.js [here](/subject_test.js) and Mystery.js [here](/mystery_test.js).**  
+
 **Thank you!**  
