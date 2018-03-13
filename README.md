@@ -32,4 +32,5 @@
   * HTML Report: ![img](/mystery_report.png) 
 
 
+* **For the reference I have put test cases of Subject.js [here](/subject_test.js) and Mystery.js [here](/mystery_test.js).
 **Thank you!**  
